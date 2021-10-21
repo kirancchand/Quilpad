@@ -1,0 +1,28 @@
+*.pyc
+*.txt
+*.so
+*.pyd
+cherrypy/*
+CherryPy*/
+bengali/*.xml
+gujarati/*.xml
+hindi/*.xml
+hindiMobile/*.xml
+kannada/*.xml
+malayalam/*.xml
+marathi/*.xml
+nepali/*.xml
+punjabi/*.xml
+tamil/*.xml
+telugu/*.xml
+EnglishPronouncingTrees/*
+IndianPronouncingTrees/*
+logs/*
+dump/*
+# *.zip
+*.bz2
+*.gz
+Python Cart/python/build/
+
+# OS X
+.DS_Store
